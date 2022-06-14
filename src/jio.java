@@ -2,7 +2,7 @@
 public class jio {
 	
 	
-	char f;
+	char f=0;;
 	
 
 	public jio()           //constructor 
