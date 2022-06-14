@@ -2,7 +2,7 @@
 public class jio {
 	
 	
-	char f='@';
+	char f;
 	
 
 	public jio()           //constructor 
